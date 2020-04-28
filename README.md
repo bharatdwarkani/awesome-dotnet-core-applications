@@ -37,6 +37,12 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
 
+[**clean-architecture**](https://github.com/jasontaylordev/CleanArchitecture) (**Clean architecture**) (**MIT**) - is a clean architecture template.
+
+[**clean-testing**](https://github.com/jasontaylordev/CleanTesting) (**Clean Testing**) (**MIT**) - is a clean testing sample application.
+
+[**Dotnet-Boxed**](https://github.com/Dotnet-Boxed/Templates) (**Dotnet Boxed**) (**MIT**) - is a project template.
+
 [**StarWars**](https://github.com/JacekKosciesza/StarWars) (**GraphQL sample**) (**MIT**) - is a GraphQL-based ASP.NET Core Star Wars application.
 
 [**sample-dotnet-core-cqrs-api**](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) (**Clean architecture, DDD, CQRS**) - is a sample project demonstrating the use of Rest API clean architecture with the CQRS pattern.

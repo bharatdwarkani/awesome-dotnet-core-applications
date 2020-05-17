@@ -51,6 +51,8 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**POPForums**](https://github.com/POPWorldMedia/POPForums) (**Sample**) (**MIT**) - is a forum application.
 
+[**Pacco**](https://github.com/devmentors/Pacco) (**Sample**) (**MIT**) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.
+
 
 **Pull requests are welcome for including new items in this list.**
 

@@ -45,7 +45,9 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**StarWars**](https://github.com/JacekKosciesza/StarWars) (**GraphQL sample**) (**MIT**) - is a GraphQL-based ASP.NET Core Star Wars application.
 
-[**sample-dotnet-core-cqrs-api**](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) (**Clean architecture, DDD, CQRS**) - is a sample project demonstrating the use of Rest API clean architecture with the CQRS pattern.
+[**StarWars**](https://github.com/JacekKosciesza/StarWars) (**GraphQL sample**) (**MIT**) - is a GraphQL-based ASP.NET Core Star Wars application.
+
+[**aspnetcore-realworld-example-app**](https://github.com/gothinkster/aspnetcore-realworld-example-app) (**CQRS, Fluent Validation, Automapper**) - is a example project demonstrating the use of CQRS, Fluent Validation, Automapper, and Entity framework core.
 
 [**ContosoUniversityDotNetCore**](https://github.com/jbogard/ContosoUniversityDotNetCore) (**CQRS**) - is a sample project demonstrating the use of CQRS, Automapper, Integration Testing.
 

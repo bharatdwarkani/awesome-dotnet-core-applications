@@ -47,6 +47,8 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**sample-dotnet-core-cqrs-api**](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) (**Clean architecture, DDD, CQRS**) - is a sample project demonstrating the use of Rest API clean architecture with the CQRS pattern.
 
+[**ContosoUniversityDotNetCore**](https://github.com/jbogard/ContosoUniversityDotNetCore) (**CQRS**) - is a sample project demonstrating the use of CQRS, Automapper, Integration Testing.
+
 [**Pos**](https://github.com/NHadi/Pos) (**Microservices, DDD, CQRS**) - is a sample project demonstrating the use of microservices.
 
 [**POPForums**](https://github.com/POPWorldMedia/POPForums) (**Sample**) (**MIT**) - is a forum application.

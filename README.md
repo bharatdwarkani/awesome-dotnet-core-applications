@@ -53,7 +53,7 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**Pacco**](https://github.com/devmentors/Pacco) (**Sample**) (**MIT**) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.
 
-Visit my site [**Share Tech Links**] (https://sharetechlinks.com/)  for curated list of tech related blogs, articles links.
+Visit my site [**Share Tech Links**](https://sharetechlinks.com/)  for curated list of tech related interesting blog links.
 
 **Pull requests are welcome for including new items in this list.**
 

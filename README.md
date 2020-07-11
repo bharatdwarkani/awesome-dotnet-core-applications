@@ -69,6 +69,8 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**Pacco**](https://github.com/devmentors/Pacco) (**Sample**) (**MIT**) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.
 
+[**Awesome collection of .NET Core Static Analyzers**](https://github.com/bharatdwarkani/awesome-dotnet-core-static-analyzers/blob/master/README.md) - static Analyzers using the .NET Compiler Platform (Roslyn) to enforce and improve code quality
+
 Visit my site [**Share Tech Links**](https://sharetechlinks.com/)  for curated list of tech related interesting blog links.
 
 **Pull requests are welcome for including new items in this list.**

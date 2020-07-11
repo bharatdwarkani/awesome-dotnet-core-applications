@@ -11,6 +11,8 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**SimplCommerce**](https://github.com/simplcommerce/SimplCommerce) (**E-commerce**) (**Apache 2.0**) - is a modular, microservice-based e-commerce application, built using ASP.NET Core.
 
+[**grandnode**](https://github.com/grandnode/grandnode) (**E-commerce**) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+
 [**squidex**](https://github.com/Squidex/squidex) (**CMS**) (**MIT**) - is a headless CMS and content management hub, built using ASP.NET Core with OData and CQRS patterns.
 
 [**Miniblog.Core**](https://github.com/madskristensen/Miniblog.Core) (**Blog engine**) (**Apache 2.0**) - is a blog engine based on ASP.NET Core.

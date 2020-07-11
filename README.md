@@ -19,6 +19,8 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**Blogifier**](https://github.com/blogifierdotnet/Blogifier) (**Blog engine**) (**MIT**) - is a lightweight blog engine written in ASP.NET Core.
 
+[**Merp**](https://github.com/mastreeno/Merp) (**Merp**) (**AGPL-3.0**) - An event-based Micro ERP developed by Andrea Saltarello using ASP.NET Core 3.1
+
 ## Sample & Reference Applications
 
 [**eShopOnContainers**](https://github.com/dotnet-architecture/eShopOnContainers) (**Container-based microservices architecture**) (**MIT**) - is a sample reference application demonstrating various architecture patterns of container-based microservices by Microsoft.
@@ -27,6 +29,8 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**practical-aspnetcore**](https://github.com/dodyg/practical-aspnetcore) (**Samples**) (**MIT**) - is a practical sample for ASP.NET Core.
 
+[**EquinoxProject**](https://github.com/EduardoPires/EquinoxProject) (**Samples**) (**MIT**) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
+
 [**NorthwindTraders**](https://github.com/JasonGT/NorthwindTraders) (**Clean architecture, DDD, CQRS**) (**MIT**)- is a sample reference application for domain-driven architecture using Entity Framework and CQRS pattern.
 
 [**ReactiveTraderCloud**](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) (**Reactive programming architecture**) (**Apache 2.0**) - is a real-time trading application demonstrating reactive programming principles.
@@ -34,6 +38,8 @@ Open-source projects are great for getting started and serve as a good source fo
 [**coolstore-microservices**](https://github.com/vietnam-devs/coolstore-microservices) (**Kubernetes-based microservice using service mesh**) (**MIT**) - is a sample application demonstrating the use of Kubernetes using a service mesh.
 
 [**cloudscribe**](https://github.com/cloudscribe/cloudscribe) (**Multitenant framework architecture**) (**Apache 2.0**) - is a foundation framework for building a multitenant application.
+
+[**sample-dotnet-core-cqrs-api**](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) (**Clean architecture**) (**MIT**) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 
 [**clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga) (**Clean architecture**) (**Apache**) - is a clean architecture sample application.
 
@@ -48,6 +54,10 @@ Open-source projects are great for getting started and serve as a good source fo
 [**aspnetcore-realworld-example-app**](https://github.com/gothinkster/aspnetcore-realworld-example-app) (**CQRS, Fluent Validation, Automapper**) - is a example project demonstrating the use of CQRS, Fluent Validation, Automapper, and Entity framework core.
 
 [**ContosoUniversityDotNetCore**](https://github.com/jbogard/ContosoUniversityDotNetCore) (**CQRS**) - is a sample project demonstrating the use of CQRS, Automapper, Integration Testing.
+
+[**modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd) (**CQRS**)  (**MIT**) - Full Modular Monolith application with Domain-Driven Design approach.
+
+[**EventSourcing.NetCore**](https://github.com/oskardudycz/EventSourcing.NetCore) (**Event Sourcing**) (**MIT**) - Example of Event Sourcing in .NET Core
 
 [**Pos**](https://github.com/NHadi/Pos) (**Microservices, DDD, CQRS**) - is a sample project demonstrating the use of microservices.
 

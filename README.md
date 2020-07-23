@@ -71,6 +71,8 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**Awesome collection of .NET Core Static Analyzers**](https://github.com/bharatdwarkani/awesome-dotnet-core-static-analyzers/blob/master/README.md) - static Analyzers using the .NET Compiler Platform (Roslyn) to enforce and improve code quality
 
+[**EventFlow.Example**](https://github.com/OKTAYKIR/EventFlow.Example) (**DDD, Event Sourcing, CQRS**) - DDD+CQRS+Event-sourcing example and contains following technology stack: [EventFlow](https://github.com/eventflow/EventFlow), [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
+
 Visit my site [**Share Tech Links**](https://sharetechlinks.com/)  for curated list of tech related interesting blog links.
 
 **Pull requests are welcome for including new items in this list.**

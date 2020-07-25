@@ -72,6 +72,8 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**Awesome collection of .NET Core Static Analyzers**](https://github.com/bharatdwarkani/awesome-dotnet-core-static-analyzers/blob/master/README.md) - static Analyzers using the .NET Compiler Platform (Roslyn) to enforce and improve code quality
 
+[**Awesome collection of Libraries to build SaaS applications**](https://github.com/bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core) -  Awesome collection of libraries to build Software as a Service (SaaS) application using ASP.NET Core  
+
 Visit my site [**Share Tech Links**](https://sharetechlinks.com/)  for curated list of tech related interesting blog links.
 
 **Pull requests are welcome for including new items in this list.**

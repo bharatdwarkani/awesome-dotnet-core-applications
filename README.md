@@ -63,6 +63,8 @@ Open-source projects are great for getting started and serve as a good source fo
 
 [**Sennedjem**](https://github.com/keremvaris/Sennedjem) (**Clean architecture**) (**MIT**) - Sennedjem CQRS (Command Query Responsibility Segregation), Clean Architecture. RabbitMq, ElasticSearch sample
 
+[**EventFlow.Example**](https://github.com/OKTAYKIR/EventFlow.Example) (**DDD, Event Sourcing, CQRS**) - DDD+CQRS+Event-sourcing example and contains following technology stack: [EventFlow](https://github.com/eventflow/EventFlow), [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
+
 [**Pos**](https://github.com/NHadi/Pos) (**Microservices, DDD, CQRS**) - is a sample project demonstrating the use of microservices.
 
 [**POPForums**](https://github.com/POPWorldMedia/POPForums) (**Sample**) (**MIT**) - is a forum application.
@@ -70,8 +72,6 @@ Open-source projects are great for getting started and serve as a good source fo
 [**Pacco**](https://github.com/devmentors/Pacco) (**Sample**) (**MIT**) - microservices solution in .NET Core 3.1 based on the cloud-agnostic approach.
 
 [**Awesome collection of .NET Core Static Analyzers**](https://github.com/bharatdwarkani/awesome-dotnet-core-static-analyzers/blob/master/README.md) - static Analyzers using the .NET Compiler Platform (Roslyn) to enforce and improve code quality
-
-[**EventFlow.Example**](https://github.com/OKTAYKIR/EventFlow.Example) (**DDD, Event Sourcing, CQRS**) - DDD+CQRS+Event-sourcing example and contains following technology stack: [EventFlow](https://github.com/eventflow/EventFlow), [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
 
 Visit my site [**Share Tech Links**](https://sharetechlinks.com/)  for curated list of tech related interesting blog links.
 

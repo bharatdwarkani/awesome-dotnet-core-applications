@@ -1,5 +1,4 @@
-# awesome-dotnet-core-applications
-**A collection of .NET Core realtime, sample, architecture reference application projects**
+# Awesome collection of .NET Core realtime, sample, architecture reference application projects
 
 Open-source projects are great for getting started and serve as a good source for architecture reference. There are several open-source ASP.NET Core projects available in GitHub. These projects will help you learn ASP.NET Core technology in-depth, with different types of architecture and coding patterns. Some of the top real-time applications or sample architecture reference projects across different categories are listed below
 
